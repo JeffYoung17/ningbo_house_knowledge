@@ -29,8 +29,10 @@
     - [2.2 楼盘/小区](#22-楼盘小区)
       - [配套](#配套)
       - [容积率和楼间距, 绿化率和绿地率](#容积率和楼间距-绿化率和绿地率)
+      - [控制性详细规划图](#控制性详细规划图)
+      - [不利因素说明图](#不利因素说明图)
+      - [项目总平图](#项目总平图)
       - [开发商和物业](#开发商和物业)
-      - [控制规划图](#控制规划图)
     - [2.3 房子本身](#23-房子本身)
       - [房产类型](#房产类型)
       - [户型](#户型)
@@ -91,7 +93,7 @@
 ![](imgs/Ningbo_Rail_Transit_Plan_(2026)_zh-hans.png)<br>
 ![](imgs/宁波市城市轨道交通第三期建设规划示意图.jpg)<br>
 
-[维基百科-宁波轨道交通](https://zh.wikipedia.org/wiki/宁波轨道交通)<br>
+[维基百科: 宁波轨道交通](https://zh.wikipedia.org/wiki/宁波轨道交通)<br>
 [国家发改委对宁波轨道交通第三期(2021-2026年)的批复](https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/202012/t20201231_1261228.html)<br>
 
 ### 1.5 高架&城市快速路现状与规划
@@ -122,9 +124,9 @@
 
 #### 2021年1-3月份土拍
 
-[宁波乐居-3月成交情况](https://tt.leju.com/a32b4da32d9a67a5/kodexplorer/data/User/ningbo/home/202104/tphz/)<br>
-[宁波乐居-2月成交情况](https://tt.leju.com/a32b4da32d9a67a5/kodexplorer/data/User/ningbo/home/202103/tphz/)<br>
-[宁波乐居-1月成交情况](https://tt.leju.com/a32b4da32d9a67a5/kodexplorer/data/User/ningbo/home/202102/tphz/)<br>
+[宁波乐居: 3月成交情况](https://tt.leju.com/a32b4da32d9a67a5/kodexplorer/data/User/ningbo/home/202104/tphz/)<br>
+[宁波乐居: 2月成交情况](https://tt.leju.com/a32b4da32d9a67a5/kodexplorer/data/User/ningbo/home/202103/tphz/)<br>
+[宁波乐居: 1月成交情况](https://tt.leju.com/a32b4da32d9a67a5/kodexplorer/data/User/ningbo/home/202102/tphz/)<br>
 
 #### 2021年第1次集中供地
 
@@ -150,9 +152,21 @@
 
 #### 容积率和楼间距, 绿化率和绿地率
 
-#### 开发商和物业
+#### 控制性详细规划图
 
-#### 控制规划图
+用地分类: 城乡用地共分为2大类, 8中类, 17小类, 其中对于购房者需要关心的是城市建设用地(H11小类)<br>
+而城市建设用地按大类, 中类和小类的3级分类体系又可以分为8大类, 35中类, 44小类
+
+[百度百科: 用地性质](https://baike.baidu.com/item/%E7%94%A8%E5%9C%B0%E6%80%A7%E8%B4%A8/7418473?fr=aladdin)<br>
+[知乎: 什么地段的房子有前途？看完这些图秒懂!](https://zhuanlan.zhihu.com/p/266734296)<br>
+
+#### 不利因素说明图
+
+#### 项目总平图
+
+项目楼盘总体平面图, 问职业顾问索要, 沙盘可能有失真
+
+#### 开发商和物业
 
 ### 2.3 房子本身
 
@@ -160,7 +174,9 @@
 
 #### 户型
 
-[知乎-怎样的房子才算户型方正？怎样的户型是好户型？](https://www.zhihu.com/question/19669880)<br>
+户型图, 标准层图纸
+
+[知乎: 怎样的房子才算户型方正？怎样的户型是好户型？](https://www.zhihu.com/question/19669880)<br>
 
 #### 得房率
 
