@@ -124,6 +124,14 @@
 [限购限售政策及办理指南](https://www.cnnbfdc.com/page/guide/xg/index.html#fj1)<br>
 [限购、限售、税费、补贴…2021年宁波买房政策全攻略,看这一篇就够了!](https://mp.weixin.qq.com/s/jnCDbxhU7vI1oBIlikJo8g)<br>
 
+
+> 宁波的基础人才购房补贴俗称“大学生购房补贴”，最初是由宁波市人社局在2015年11月下发《关于优化人才住房保障的实施细则》后，鄞州正式启动基础人才购房补贴业务，符合条件的人才购买首套宁波市内房产可获得购房总价2%的现金补贴。2018年12月市人社局再次下发《关于推进开放揽才产业聚智相关政策的实施细则》，购房补贴政策延续至2021年8月11日。
+
+[宁波人社：鄞州区大学生购房补贴2020年度发放近2.1亿元，再创历史新高！](http://rsj.ningbo.gov.cn/art/2021/1/18/art_1229114053_58918845.html)<br>
+[宁波大学生购房补贴政策到期了？现在买房已经享受不了？各区人才服务中心的答复是……](https://mp.weixin.qq.com/s/gI3mhU6uJ_NpGhONh-7nWQ)<br>
+[房产答疑⑥|有关宁波大学生购房补贴的问题](https://mp.weixin.qq.com/s/mBvHmCl669E5FGB1-DNRmw)<br>
+[大学生购房补贴新政这5大问题很关键！能否申领到补贴](https://mp.weixin.qq.com/s/9MwgUQGJEMiqqItJsJ7TwQ)<br>
+
 ### 1.7 土拍情况
 
 #### 2020年土拍
