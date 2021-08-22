@@ -288,7 +288,7 @@ APP: 宁波房产<br>
 ### 4.3 论坛
 
 民生e点通: https://nb8185.cnnb.com.cn/<br>
-天一论坛: 风云楼市<br>
+天一论坛（https://bbs.cnnb.com.cn/）: 风云楼市板块<br>
 
 欢迎star和pull request, 如果这些信息有帮助到你的话, 不妨可以随缘赞赏以表对我的鼓励<br>
 ![](imgs/zfb.jpg)
